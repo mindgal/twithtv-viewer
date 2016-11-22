@@ -1,0 +1,19 @@
+main {
+  border: 1px solid black;
+  margin-top: 20px;
+}
+
+.streamers-header {
+  font-size: x-large;
+  text-align: center;
+  border-bottom: 1px solid black;
+}
+
+.streamers>div {
+  margin: 10px;
+}
+.logo {
+  max-height: 30px;
+  border-radius: 50%;
+  margin: 5px;
+}
